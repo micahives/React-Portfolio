@@ -1,12 +1,19 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-function Header() {
+const Header = () => {
     return (
-        <header className="bg-gray-800 text-white">
-            <h1 className="text-4xl font-bold">My Portfolio</h1>
-            {/* Navigation component goes here */}
+        <header>
+            <nav>
+                <ul>
+                    <li><Link to="/about">About Me</Link></li>
+                    <li><Link to="/portfolio">Portfolio</Link></li>
+                    <li><Link to="/contact">Contact</Link></li>
+                    <li><Link to="/resume">Resume</Link></li>
+                </ul>
+            </nav>
         </header>
     );
-}
+};
 
 export default Header;
