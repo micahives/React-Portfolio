@@ -6,7 +6,7 @@ This is a personal portfolio website built using React. It showcases my projects
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Deployed App](#view-on-render)
+- [Deployed App](#view-on-netlify)
 
 ## Technologies Used
 - React
@@ -21,8 +21,8 @@ This is a personal portfolio website built using React. It showcases my projects
 - Contact form to reach out.
 - Footer with links to GitHub and LinkedIn
 
-## View on Render
-[Deployed Portfolio](https://your-portfolio-url.com)
+## View on Netlify
+[Deployed Portfolio](https://heroic-sprite-343733.netlify.app/))
 
 ## GitHub Repository
 [View on GitHub](https://github.com/micahives/React-Portfolio)
