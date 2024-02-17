@@ -22,7 +22,7 @@ This is a personal portfolio website built using React. It showcases my projects
 - Footer with links to GitHub and LinkedIn
 
 ## View on Netlify
-[Deployed Portfolio](https://heroic-sprite-343733.netlify.app/))
+[Deployed Portfolio](https://heroic-sprite-343733.netlify.app/)
 
 ## GitHub Repository
 [View on GitHub](https://github.com/micahives/React-Portfolio)
