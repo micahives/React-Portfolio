@@ -79,7 +79,7 @@ const ContactForm = () => {
             ></textarea>
             {errors.message && <p className="text-red-500">{errors.message}</p>}
           </div>
-          <button type="submit" className="px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-900 focus:outline-none focus:bg-blue-900">Submit</button>
+          <button type="submit" className="px-4 py-2 bg-blue-900 text-white rounded-md hover:bg-blue-900 focus:outline-none focus:bg-blue-900">Submit</button>
         </form>
       ) : ( // Show confirmation message if submitted
         <div className="text-green-600 font-semibold">Successfully submitted!</div>

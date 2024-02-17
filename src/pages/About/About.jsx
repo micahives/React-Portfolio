@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../../components/Footer/Footer';
 import profilePicture from '../../assets/profilePic.png';
 
 const About = () => {
@@ -11,6 +12,7 @@ const About = () => {
                 </div>
                 <p className="text-lg">Scientist, software developer in the works.</p>
             </div>
+            <Footer />
         </div>
     );
 };
