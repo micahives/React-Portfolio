@@ -1,39 +1,46 @@
+import MonsterMineImage from '../../assets/MonsterMine.png';
+import WorkDayHeroGif from '../../assets/Work-Day-Hero.gif';
+import GamingWishlistImage from '../../assets/GamingWishlist.png';
+import NoteTakerExpressImage from '../../assets/NoteTakerExpress.png';
+import FiveDayForecastImage from '../../assets/WeatherApp.png';
+import QuizStarsImage from '../../assets/QuizStars.png';
+
 const projects = [
     {
-        title: "Project 1",
-        image: "project1.jpg",
-        deployedLink: "https://example.com/project1",
-        githubLink: "https://github.com/example/project1"
+        title: "Monster Mine",
+        image: MonsterMineImage,
+        deployedLink: "https://micahives.github.io/Monster-Mine/",
+        githubLink: "https://github.com/micahives/Monster-Mine"
     },
     {
-        title: "Project 2",
-        image: "project1.jpg",
-        deployedLink: "https://example.com/project1",
-        githubLink: "https://github.com/example/project1"
+        title: "Work Day Hero",
+        image: WorkDayHeroGif,
+        deployedLink: "https://micahives.github.io/Work-Day-Hero/",
+        githubLink: "https://github.com/micahives/Work-Day-Hero"
     },
     {
-        title: "Project 3",
-        image: "project1.jpg",
-        deployedLink: "https://example.com/project1",
-        githubLink: "https://github.com/example/project1"
+        title: "Gaming Wishlist",
+        image: GamingWishlistImage,
+        deployedLink: "https://micahives.github.io/Gaming-Wishlist/",
+        githubLink: "https://github.com/micahives/Gaming-Wishlist"
     },
     {
-        title: "Project 4",
-        image: "project1.jpg",
-        deployedLink: "https://example.com/project1",
-        githubLink: "https://github.com/example/project1"
+        title: "Note Taker Express",
+        image: NoteTakerExpressImage,
+        deployedLink: "https://micahives.github.io/NoteTakerExpress/",
+        githubLink: "https://github.com/micahives/NoteTakerExpress"
     },
     {
-        title: "Project 5",
-        image: "project1.jpg",
-        deployedLink: "https://example.com/project1",
-        githubLink: "https://github.com/example/project1"
+        title: "Five Day Forecast",
+        image: FiveDayForecastImage,
+        deployedLink: "https://micahives.github.io/FiveDayForecast/",
+        githubLink: "https://github.com/micahives/FiveDayForecast"
     },
     {
-        title: "Project 6",
-        image: "project1.jpg",
-        deployedLink: "https://example.com/project1",
-        githubLink: "https://github.com/example/project1"
+        title: "Quiz Stars",
+        image: QuizStarsImage,
+        deployedLink: "https://micahives.github.io/Quiz-Stars/",
+        githubLink: "https://github.com/micahives/Quiz-Stars"
     }
   ];
   

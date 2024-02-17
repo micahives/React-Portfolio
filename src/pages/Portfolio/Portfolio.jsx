@@ -4,9 +4,9 @@ import projects from '../../components/Project/ProjectData';
 
 const Portfolio = () => {
     return (
-      <div className="portfolio mt-8">
-        <h1 className="text-3xl font-bold mb-4">Portfolio</h1>
-        <div className="grid grid-cols-2 gap-4">
+      <div className="portfolio mt-32 ml-8">
+        <h1 className="text-3xl font-bold mb-8">Portfolio</h1>
+        <div className="grid grid-cols-2 gap-8">
           {projects.slice(0, 6).map((project, index) => (
             <Project 
               key={index} 
