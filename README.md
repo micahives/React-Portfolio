@@ -21,6 +21,10 @@ This is a personal portfolio website built using React. It showcases my projects
 - Contact form to reach out.
 - Footer with links to GitHub and LinkedIn
 
+## Screenshot
+![ReactPortfolio](https://github.com/micahives/React-Portfolio/assets/122231046/a76ec816-a888-4cb4-b584-831358989801)
+
+
 ## View on Netlify
 [Deployed Portfolio](https://heroic-sprite-343733.netlify.app/)
 
